@@ -1,0 +1,8 @@
+{
+  "id": "sample",
+  "name": "Sample Module",
+  "module": "index.js",
+  "require": [
+    "system"
+  ]
+}
